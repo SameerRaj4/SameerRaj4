@@ -107,7 +107,7 @@ Designed as an interactive learning tool
 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sameer-raj/">
+  <a href="https://www.linkedin.com/in/sameer-raj-9aa965257/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sameer2015raj@gmail.com">
