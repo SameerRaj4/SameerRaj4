@@ -93,16 +93,7 @@ Designed as an interactive learning tool
 
 🤖 7th Rank — Robotic Event, BoatRush, 2023
 
-📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerRaj4&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerRaj4&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SameerRaj4&theme=tokyonight&hide_border=true" />
-</p>
 
 🌐 Connect With Me
 
